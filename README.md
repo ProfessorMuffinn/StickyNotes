@@ -6,3 +6,5 @@ for (Notes i : board){
                 return;
             }
         }
+
+1/x/y/THISISTHEMESSAGE
