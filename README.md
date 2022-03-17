@@ -8,3 +8,6 @@ for (Notes i : board){
         }
 
 1/x/y/THISISTHEMESSAGE
+
+
+https://www.javatpoint.com/socket-programming
